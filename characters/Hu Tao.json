@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Hu Tao",
+        "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT DMG",
+            "constellation": "Papilio Charontis",
+            "vision": "Pyro",
+            "birthday": "7/15",
+            "title": "Fragrance in Thaw",
+            "affiliation": "Wangsheng Funeral Parlor"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%2583%25A1%25E6%25A1%2583/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%2583%25A1%25E6%25A1%2583/avatar_header.jpg"
+        }
+    }
+]

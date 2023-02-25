@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Qiqi",
+        "description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Healing Bonus",
+            "constellation": "Pristina Nola",
+            "vision": "Cryo",
+            "birthday": "3/3",
+            "title": "Icy Resurrection",
+            "affiliation": "Bubu Pharmacy"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B8%2583%25E4%25B8%2583/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B8%2583%25E4%25B8%2583/avatar_header.jpg"
+        }
+    }
+]

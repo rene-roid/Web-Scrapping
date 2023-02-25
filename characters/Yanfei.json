@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yanfei",
+        "description": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Pyro DMG Bonus",
+            "constellation": "Bestia Iustitia",
+            "vision": "Pyro",
+            "birthday": "7/28",
+            "title": "Wise Innocence",
+            "affiliation": "Yanfei Legal Consultancy"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%2583%259F%25E7%25BB%25AF/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%2583%259F%25E7%25BB%25AF/avatar_header.png"
+        }
+    }
+]

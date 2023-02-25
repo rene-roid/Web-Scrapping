@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Faruzan",
+        "description": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Flosculi Implexi",
+            "vision": "Anemo",
+            "birthday": "8/20",
+            "title": "Enigmatic Machinist",
+            "affiliation": "Haravatat"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/05/35428890/68f891b9f68ab114977e00200efb9e59_213236856968562654.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/11/02/35428890/916f58fd40889efeb93579a425282b34_5236500299635330845.jpg"
+        }
+    }
+]

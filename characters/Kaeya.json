@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kaeya",
+        "description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Energy Recharge",
+            "constellation": "Pavo Ocellus",
+            "vision": "Cryo",
+            "birthday": "11/30",
+            "title": "Frostwind Swordsman",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2587%25AF%25E4%25BA%259A/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2587%25AF%25E4%25BA%259A/avatar_header.jpg"
+        }
+    }
+]

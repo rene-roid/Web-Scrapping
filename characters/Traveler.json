@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Traveler",
+        "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+        "element": "Geo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "unknown",
+            "rarity": "5-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Viator & Viatrix",
+            "vision": "-",
+            "birthday": "-",
+            "title": "-",
+            "affiliation": "-"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2597%2585%25E8%25A1%258C%25E8%2580%2585(%25E5%25B2%25A9)/avatar.png",
+            "card": "unknown"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ningguang",
+        "description": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+        "element": "Geo",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Geo DMG Bonus",
+            "constellation": "Opus Aequilibrium",
+            "vision": "Geo",
+            "birthday": "8/26",
+            "title": "Eclipsing Star",
+            "affiliation": "Liyue Qixing"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2587%259D%25E5%2585%2589/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2587%259D%25E5%2585%2589/avatar_header.jpg"
+        }
+    }
+]

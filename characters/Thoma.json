@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Thoma",
+        "description": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Rubeum Scutum",
+            "vision": "Pyro",
+            "birthday": "1/9",
+            "title": "Protector From Afar",
+            "affiliation": "Yashiro Commission"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2589%2598%25E9%25A9%25AC/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2589%2598%25E9%25A9%25AC/avatar_header.jpg"
+        }
+    }
+]

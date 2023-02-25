@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Eula",
+        "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT DMG",
+            "constellation": "Aphros Delos",
+            "vision": "Cryo",
+            "birthday": "10/25",
+            "title": "Dance of the Shimmering Wave",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25BC%2598%25E8%258F%2588/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25BC%2598%25E8%258F%2588/avatar_header.png"
+        }
+    }
+]

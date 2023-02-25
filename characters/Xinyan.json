@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Xinyan",
+        "description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Fila Ignium",
+            "vision": "Pyro",
+            "birthday": "10/16",
+            "title": "Blazing Riff",
+            "affiliation": "\"The Red Strings\""
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BE%259B%25E7%2584%25B1/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BE%259B%25E7%2584%25B1/avatar_header.jpg"
+        }
+    }
+]

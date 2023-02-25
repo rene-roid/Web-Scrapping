@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Mona",
+        "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Energy Recharge",
+            "constellation": "Astrolabos",
+            "vision": "Hydro",
+            "birthday": "8/31",
+            "title": "Astral Reflection",
+            "affiliation": "Mondstadt"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258E%25AB%25E5%25A8%259C/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258E%25AB%25E5%25A8%259C/avatar_header.jpg"
+        }
+    }
+]

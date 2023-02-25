@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yelan",
+        "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT Rate",
+            "constellation": "Umbrabilis Orchis",
+            "vision": "Hydro",
+            "birthday": "4/20",
+            "title": "Valley Orchid",
+            "affiliation": "Yanshang Teahouse"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%25A4%259C%25E5%2585%25B0/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%25A4%259C%25E5%2585%25B0/avatar_header.jpg"
+        }
+    }
+]

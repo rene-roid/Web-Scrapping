@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fischl",
+        "description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+        "element": "Electro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Corvus",
+            "vision": "Electro",
+            "birthday": "5/27",
+            "title": "Prinzessin der Verurteilung!",
+            "affiliation": "Adventurers' Guild"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258F%25B2%25E8%25B0%25A2%25E5%25B0%2594/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258F%25B2%25E8%25B0%25A2%25E5%25B0%2594/avatar_header.jpg"
+        }
+    }
+]

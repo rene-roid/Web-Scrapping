@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Jean",
+        "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Healing Bonus",
+            "constellation": "Leo Minor",
+            "vision": "Anemo",
+            "birthday": "3/14",
+            "title": "Dandelion Knight",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/07/30/94376896/1c7aec60047574f90ae0702ee64eaeac_7815491501065764996.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%2590%25B4/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Layla",
+        "description": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "4-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Luscinia",
+            "vision": "Cryo",
+            "birthday": "12/19",
+            "title": "Fantastical Evening Star",
+            "affiliation": "Rtawahist"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/11/15/35428890/d78c64527941436b02a89131c5da9607_7936538629648728526.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/23/194600931/b98a830997595220620dd64e1a97988e_1708812270664859453.jpg"
+        }
+    }
+]

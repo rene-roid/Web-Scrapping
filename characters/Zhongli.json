@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Zhongli",
+        "description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Geo DMG Bonus",
+            "constellation": "Lapis Dei",
+            "vision": "Geo",
+            "birthday": "12/31",
+            "title": "Vago Mundo",
+            "affiliation": "Liyue Harbor"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%2592%259F%25E7%25A6%25BB/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%2592%259F%25E7%25A6%25BB/avatar_header.png"
+        }
+    }
+]

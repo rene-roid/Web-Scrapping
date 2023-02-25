@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dori",
+        "description": "An elusive merchant who has a fondness for glittering Mora.",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "4-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Magicae Lucerna",
+            "vision": "Electro",
+            "birthday": "12/21",
+            "title": "Treasure of Dream Garden",
+            "affiliation": "The Palace of Alcazarzaray"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/08/35428890/b4829d47e969136c6687890def3c629a_5745202697056243104.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/02/35428890/ca89fb8104c8f3c98c81a1fcffc843ce_7548059723150379056.jpg"
+        }
+    }
+]

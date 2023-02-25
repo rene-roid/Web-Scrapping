@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Noelle",
+        "description": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "DEF",
+            "constellation": "Parma Cordis",
+            "vision": "Geo",
+            "birthday": "3/21",
+            "title": "Chivalric Blossom",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25AF%25BA%25E8%2589%25BE%25E5%25B0%2594/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25AF%25BA%25E8%2589%25BE%25E5%25B0%2594/avatar_header.jpg"
+        }
+    }
+]

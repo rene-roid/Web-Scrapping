@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Xiao",
+        "description": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+        "element": "Anemo",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT Rate",
+            "constellation": "Alatus Nemeseos",
+            "vision": "Anemo",
+            "birthday": "4/17",
+            "title": "Vigilant Yaksha",
+            "affiliation": "Liyue Adeptus"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%25AD%2588/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%25AD%2588/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sayu",
+        "description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
+        "element": "Anemo",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Elemental Mastery",
+            "constellation": "Nyctereutes Minor",
+            "vision": "Anemo",
+            "birthday": "10/19",
+            "title": "Mujina Ninja",
+            "affiliation": "Shuumatsuban"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2597%25A9%25E6%259F%259A/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%2597%25A9%25E6%259F%259A/avatar_header.png"
+        }
+    }
+]

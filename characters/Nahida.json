@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nahida",
+        "description": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
+        "element": "Dendro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Elemental Mastery",
+            "constellation": "Sapientia Oromasdis",
+            "vision": "Dendro",
+            "birthday": "10/27",
+            "title": "Physic of Purity",
+            "affiliation": "Sumeru City"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/29/35428890/6e1e5196da96bd65e549abe7fa861915_5209196603800560471.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/23/194600931/9b5ba3b232dd8000147bdfe93d5c8738_7298257796239165756.jpg"
+        }
+    }
+]

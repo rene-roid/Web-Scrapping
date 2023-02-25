@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Collei",
+        "description": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Leptailurus Cervarius",
+            "vision": "Dendro",
+            "birthday": "5/8",
+            "title": "Sprout of Rebirth",
+            "affiliation": "Gandharva Ville"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/24/194600931/4044ca9dcb140f6729753d43024c8b54_2064856676936061547.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/02/35428890/43a62e38cb24ad3f7e72330592303742_3668085386238992876.jpg"
+        }
+    }
+]

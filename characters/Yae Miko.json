@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yae Miko",
+        "description": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT Rate",
+            "constellation": "Divina Vulpes",
+            "vision": "Electro",
+            "birthday": "6/27",
+            "title": "Astute Amusement",
+            "affiliation": "Grand Narukami Shrine"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2585%25AB%25E9%2587%258D%25E7%25A5%259E%25E5%25AD%2590/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2585%25AB%25E9%2587%258D%25E7%25A5%259E%25E5%25AD%2590/avatar_header.png"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Shikanoin Heizou",
+        "description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Anemo DMG Bonus",
+            "constellation": "Cervus Minor",
+            "vision": "Anemo",
+            "birthday": "7/24",
+            "title": "Analytical Harmony",
+            "affiliation": "Tenryou Commission"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%25B9%25BF%25E9%2587%258E%25E9%2599%25A2%25E5%25B9%25B3%25E8%2597%258F/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%25B9%25BF%25E9%2587%258E%25E9%2599%25A2%25E5%25B9%25B3%25E8%2597%258F/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Alhaitham",
+        "description": "The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free \u2014 free from the searching eyes of ordinary people, anyway.",
+        "element": "Dendro",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Dendro DMG Bonus",
+            "constellation": "Vultur Volans",
+            "vision": "Dendro",
+            "birthday": "2/11",
+            "title": "Admonishing Instruction",
+            "affiliation": "Sumeru Akademiya"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/15/35428890/263c92ac7b067f2bbe5498291ff1827c_4756494313887478593.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/10/35428890/4d09c4894f1ae6fd47bd260ddb7b402c_2772854272029370066.png"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Keqing",
+        "description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue \u2014 but in truth, gods admire skeptics such as her quite a lot.",
+        "element": "Electro",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT DMG",
+            "constellation": "Trulla Cementarii",
+            "vision": "Electro",
+            "birthday": "11/20",
+            "title": "Driving Thunder",
+            "affiliation": "Liyue Qixing"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2588%25BB%25E6%2599%25B4/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%2588%25BB%25E6%2599%25B4/avatar_header.jpg"
+        }
+    }
+]

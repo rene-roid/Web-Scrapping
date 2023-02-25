@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Shenhe",
+        "description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Crista Doloris",
+            "vision": "Cryo",
+            "birthday": "3/10",
+            "title": "Lonesome Transcendence",
+            "affiliation": "Cloud Retainer's Abode"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%2594%25B3%25E9%25B9%25A4/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%2594%25B3%25E9%25B9%25A4/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sucrose",
+        "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+        "element": "Anemo",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Anemo DMG Bonus",
+            "constellation": "Ampulla",
+            "vision": "Anemo",
+            "birthday": "11/26",
+            "title": "Harmless Sweetie",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25A0%2582%25E7%25B3%2596/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25A0%2582%25E7%25B3%2596/avatar_header.jpg"
+        }
+    }
+]

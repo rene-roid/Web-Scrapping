@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Albedo",
+        "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+        "element": "Geo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Geo DMG Bonus",
+            "constellation": "Princeps Cretaceus",
+            "vision": "Geo",
+            "birthday": "9/13",
+            "title": "Kreideprinz",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%2598%25BF%25E8%25B4%259D%25E5%25A4%259A/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%2598%25BF%25E8%25B4%259D%25E5%25A4%259A/avatar_header.jpg"
+        }
+    }
+]

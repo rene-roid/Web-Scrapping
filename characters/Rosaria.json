@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Rosaria",
+        "description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+        "element": "Cryo",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Spinea Corona",
+            "vision": "Cryo",
+            "birthday": "1/24",
+            "title": "Thorny Benevolence",
+            "affiliation": "Church of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25BD%2597%25E8%258E%258E%25E8%258E%2589%25E4%25BA%259A/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25BD%2597%25E8%258E%258E%25E8%258E%2589%25E4%25BA%259A/avatar_header.png"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Diona",
+        "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Cryo DMG Bonus",
+            "constellation": "Feles",
+            "vision": "Cryo",
+            "birthday": "1/18",
+            "title": "K\u00e4tzlein Cocktail",
+            "affiliation": "The Cat's Tail"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BF%25AA%25E5%25A5%25A5%25E5%25A8%259C/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BF%25AA%25E5%25A5%25A5%25E5%25A8%259C/avatar_header.png"
+        }
+    }
+]

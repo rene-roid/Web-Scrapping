@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Diluc",
+        "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT Rate",
+            "constellation": "Noctua",
+            "vision": "Pyro",
+            "birthday": "4/30",
+            "title": "The Dark Side of Dawn",
+            "affiliation": "Dawn Winery"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BF%25AA%25E5%258D%25A2%25E5%2585%258B/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BF%25AA%25E5%258D%25A2%25E5%2585%258B/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Barbara",
+        "description": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Crater",
+            "vision": "Hydro",
+            "birthday": "7/5",
+            "title": "Shining Idol",
+            "affiliation": "Church of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258A%25AD%25E8%258A%25AD%25E6%258B%2589/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258A%25AD%25E8%258A%25AD%25E6%258B%2589/avatar_header.jpg"
+        }
+    }
+]

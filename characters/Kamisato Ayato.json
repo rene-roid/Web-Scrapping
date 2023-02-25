@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kamisato Ayato",
+        "description": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT DMG",
+            "constellation": "Cypressus Custos",
+            "vision": "Hydro",
+            "birthday": "3/26",
+            "title": "Pillar of Fortitude",
+            "affiliation": "Yashiro Commission"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25A5%259E%25E9%2587%258C%25E7%25BB%25AB%25E4%25BA%25BA/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25A5%259E%25E9%2587%258C%25E7%25BB%25AB%25E4%25BA%25BA/avatar_header.png"
+        }
+    }
+]

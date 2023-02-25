@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Tartaglia",
+        "description": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
+        "element": "Hydro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "unknown",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Snezhnaya",
+            "constellation": "Monoceros Caeli",
+            "vision": "Hydro",
+            "birthday": "7/20",
+            "title": "Childe",
+            "affiliation": "Fatui"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BE%25BE%25E8%25BE%25BE%25E5%2588%25A9%25E4%25BA%259A/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25BE%25BE%25E8%25BE%25BE%25E5%2588%25A9%25E4%25BA%259A/avatar_header.png"
+        }
+    }
+]

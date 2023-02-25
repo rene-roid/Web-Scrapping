@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ganyu",
+        "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT DMG",
+            "constellation": "Sinae Unicornis",
+            "vision": "Cryo",
+            "birthday": "12/2",
+            "title": "Plenilune Gaze",
+            "affiliation": "Yuehai Pavilion"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%2594%2598%25E9%259B%25A8/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%2594%2598%25E9%259B%25A8/avatar_header.png"
+        }
+    }
+]

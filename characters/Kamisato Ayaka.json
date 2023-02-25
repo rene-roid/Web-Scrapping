@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kamisato Ayaka",
+        "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+        "element": "Cryo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT DMG",
+            "constellation": "Grus Nivis",
+            "vision": "Cryo",
+            "birthday": "9/28",
+            "title": "Frostflake Heron",
+            "affiliation": "Yashiro Commission"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25A5%259E%25E9%2587%258C%25E7%25BB%25AB%25E5%258D%258E/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%25A5%259E%25E9%2587%258C%25E7%25BB%25AB%25E5%258D%258E/avatar_header.png"
+        }
+    }
+]

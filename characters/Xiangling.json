@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Xiangling",
+        "description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+        "element": "Pyro",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Elemental Mastery",
+            "constellation": "Trulla",
+            "vision": "Pyro",
+            "birthday": "11/2",
+            "title": "Exquisite Delicacy",
+            "affiliation": "Wanmin Restaurant"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%25A6%2599%25E8%258F%25B1/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%25A6%2599%25E8%258F%25B1/avatar_header.jpg"
+        }
+    }
+]

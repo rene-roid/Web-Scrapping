@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kuki Shinobu",
+        "description": "The capable and reliable deputy leader of the \"Arataki Gang.\" Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
+        "element": "Electro",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "4-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Tribulatio Demptio",
+            "vision": "Electro",
+            "birthday": "7/27",
+            "title": "Mender of Tribulations",
+            "affiliation": "Arataki Gang"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B9%2585%25E5%25B2%2590%25E5%25BF%258D/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B9%2585%25E5%25B2%2590%25E5%25BF%258D/avatar_header.jpg"
+        }
+    }
+]

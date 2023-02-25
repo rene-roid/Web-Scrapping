@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Nilou",
+        "description": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "5-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Lotos Somno",
+            "vision": "Hydro",
+            "birthday": "12/3",
+            "title": "Dance of Lotuslight",
+            "affiliation": "Zubayr Theater"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/10/10/35428890/8bd1a35ff8d58654a3f9d727d081cdb9_103210855297465202.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/13/194600931/84e8231fbc88421f5fc69f5a195655e5_3404530730991164572.png"
+        }
+    }
+]

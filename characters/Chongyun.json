@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Chongyun",
+        "description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+        "element": "Cryo",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Nubis Caesor",
+            "vision": "Cryo",
+            "birthday": "9/7",
+            "title": "Frozen Ardor",
+            "affiliation": "Tianheng Thaumaturges"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%2587%258D%25E4%25BA%2591/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%2587%258D%25E4%25BA%2591/avatar_header.jpg"
+        }
+    }
+]

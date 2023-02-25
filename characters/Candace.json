@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Candace",
+        "description": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+        "element": "Hydro",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "4-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Sagitta Scutum",
+            "vision": "Hydro",
+            "birthday": "5/3",
+            "title": "Golden Vow",
+            "affiliation": "Aaru Village"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/28/1023623/776ac3df01b790ef95a4c1b0384e828b_7571603769937192062.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/13/194600931/01cd55c990577ce74c562e0095ee1c26_6702512415392518518.png"
+        }
+    }
+]

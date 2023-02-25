@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Gorou",
+        "description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+        "element": "Geo",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Geo DMG Bonus",
+            "constellation": "Canis Bellatoris",
+            "vision": "Geo",
+            "birthday": "5/18",
+            "title": "Canine Warrior",
+            "affiliation": "Watatsumi Island"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25BA%2594%25E9%2583%258E/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25BA%2594%25E9%2583%258E/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kaedehara Kazuha",
+        "description": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
+        "element": "Anemo",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Elemental Mastery",
+            "constellation": "Acer Palmatum",
+            "vision": "Anemo",
+            "birthday": "10/29",
+            "title": "Scarlet Leaves Pursue Wild Waves",
+            "affiliation": "The Crux"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%259E%25AB%25E5%258E%259F%25E4%25B8%2587%25E5%258F%25B6/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%259E%25AB%25E5%258E%259F%25E4%25B8%2587%25E5%258F%25B6/avatar_header.png"
+        }
+    }
+]

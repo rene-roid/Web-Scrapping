@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Kujou Sara",
+        "description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+        "element": "Electro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Flabellum",
+            "vision": "Electro",
+            "birthday": "7/14",
+            "title": "Crowfeather Kaburaya",
+            "affiliation": "Tenryou Commission"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B9%259D%25E6%259D%25A1%25E8%25A3%259F%25E7%25BD%2597/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B9%259D%25E6%259D%25A1%25E8%25A3%259F%25E7%25BD%2597/avatar_header.jpg"
+        }
+    }
+]

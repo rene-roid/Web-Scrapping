@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yaoyao",
+        "description": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
+        "element": "Dendro",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Osmanthus",
+            "vision": "Dendro",
+            "birthday": "3/6",
+            "title": "Burgeoning Grace",
+            "affiliation": "Streetward Rambler's Abode"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2023/01/15/35428890/c178874ca89b6da072c6e7e7908d12f2_6834962983970326351.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/10/35428890/83a68ac0ef9842b6121b029f066d8b1e_5584137347742560769.png"
+        }
+    }
+]

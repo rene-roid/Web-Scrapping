@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Venti",
+        "description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+        "element": "Anemo",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Energy Recharge",
+            "constellation": "Carmen Dei",
+            "vision": "Anemo",
+            "birthday": "6/16",
+            "title": "Windborne Bard",
+            "affiliation": "Mondstadt"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%25B8%25A9%25E8%25BF%25AA/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E6%25B8%25A9%25E8%25BF%25AA/avatar_header.jpg"
+        }
+    }
+]

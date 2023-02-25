@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sangonomiya Kokomi",
+        "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+        "element": "Hydro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Hydro DMG Bonus",
+            "constellation": "Dracaena Somnolenta",
+            "vision": "Hydro",
+            "birthday": "2/22",
+            "title": "Pearl of Wisdom",
+            "affiliation": "Watatsumi Island"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%258F%258A%25E7%2591%259A%25E5%25AE%25AB%25E5%25BF%2583%25E6%25B5%25B7/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%258F%258A%25E7%2591%259A%25E5%25AE%25AB%25E5%25BF%2583%25E6%25B5%25B7/avatar_header.jpg"
+        }
+    }
+]

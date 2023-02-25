@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Tighnari",
+        "description": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart - and a dab hand at guiding even the dullest of pupils.",
+        "element": "Dendro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Dendro DMG Bonus",
+            "constellation": "Vulpes Zerda",
+            "vision": "Dendro",
+            "birthday": "12/29",
+            "title": "Verdant Strider",
+            "affiliation": "Gandharva Ville"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/22/35428890/58942db439a058f4611f27d8193f681b_7383079630596535124.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/08/02/35428890/db89acca822613e22a60cd3673cc54c6_905654196147107355.jpg"
+        }
+    }
+]

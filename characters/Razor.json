@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Razor",
+        "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Physical DMG Bonus",
+            "constellation": "Lupus Minor",
+            "vision": "Electro",
+            "birthday": "9/9",
+            "title": "Wolf Boy",
+            "affiliation": "Wolvendom"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%259B%25B7%25E6%25B3%25BD/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%259B%25B7%25E6%25B3%25BD/avatar_header.jpg"
+        }
+    }
+]

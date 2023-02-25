@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yun Jin",
+        "description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+        "element": "Geo",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Energy Recharge",
+            "constellation": "Opera Grandis",
+            "vision": "Geo",
+            "birthday": "5/21",
+            "title": "Stage Lucida",
+            "affiliation": "Yun-Han Opera Troupe"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25BA%2591%25E5%25A0%2587/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25BA%2591%25E5%25A0%2587/avatar_header.jpg"
+        }
+    }
+]

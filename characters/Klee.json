@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Klee",
+        "description": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
+        "element": "Pyro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Pyro DMG Bonus",
+            "constellation": "Trifolium",
+            "vision": "Pyro",
+            "birthday": "7/27",
+            "title": "Fleeing Sunlight",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%258F%25AF%25E8%258E%2589/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%258F%25AF%25E8%258E%2589/avatar_header.jpg"
+        }
+    }
+]

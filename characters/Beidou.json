@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Beidou",
+        "description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+        "element": "Electro",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Electro DMG Bonus",
+            "constellation": "Victor Mare",
+            "vision": "Electro",
+            "birthday": "2/14",
+            "title": "Uncrowned Lord of the Ocean",
+            "affiliation": "The Crux"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%258C%2597%25E6%2596%2597/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%258C%2597%25E6%2596%2597/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yoimiya",
+        "description": "Owner of Naganohara Fireworks. Known as \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT Rate",
+            "constellation": "Carassius Auratus",
+            "vision": "Pyro",
+            "birthday": "6/21",
+            "title": "Frolicking Flames",
+            "affiliation": "Naganohara Fireworks"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%25AE%25B5%25E5%25AE%25AB/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%25AE%25B5%25E5%25AE%25AB/avatar_header.png"
+        }
+    }
+]

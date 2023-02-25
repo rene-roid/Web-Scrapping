@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Cyno",
+        "description": "The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the \"Great Vayuvyastra\" made by the Kshahrewar.",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT DMG",
+            "constellation": "Lupus Aureus",
+            "vision": "Electro",
+            "birthday": "6/23",
+            "title": "Judicator of Secrets",
+            "affiliation": "Temple of Silence"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/29/80830045/cb608014e47da4a071ab22cb11c76627_9100299931285772298.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/09/13/194600931/a6db1629d92627d4819b9720aaaab2d1_7072785994398468460.png"
+        }
+    }
+]

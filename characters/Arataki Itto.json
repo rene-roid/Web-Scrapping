@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Arataki Itto",
+        "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+        "element": "Geo",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "CRIT Rate",
+            "constellation": "Taurus Iracundus",
+            "vision": "Geo",
+            "birthday": "6/1",
+            "title": "Hanamizaka Heroics",
+            "affiliation": "Arataki Gang"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258D%2592%25E6%25B3%25B7%25E4%25B8%2580%25E6%2596%2597/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%258D%2592%25E6%25B3%25B7%25E4%25B8%2580%25E6%2596%2597/avatar_header.jpg"
+        }
+    }
+]

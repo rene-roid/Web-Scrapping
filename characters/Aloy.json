@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Aloy",
+        "description": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.",
+        "element": "Cryo",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "unknown",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Cryo DMG Bonus",
+            "constellation": "Nora Fortis",
+            "vision": "Cryo",
+            "birthday": "4/4",
+            "title": "Savior From Another World",
+            "affiliation": "Wandering Heroine"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%259F%2583%25E6%25B4%259B%25E4%25BC%258A/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%259F%2583%25E6%25B4%259B%25E4%25BC%258A/avatar_header.png"
+        }
+    }
+]

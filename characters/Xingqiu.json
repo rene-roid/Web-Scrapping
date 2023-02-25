@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Xingqiu",
+        "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+        "element": "Hydro",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Liyue Harbor",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Fabulae Textile",
+            "vision": "Hydro",
+            "birthday": "10/9",
+            "title": "Juvenile Galant",
+            "affiliation": "Feiyun Commerce Guild"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25A1%258C%25E7%25A7%258B/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E8%25A1%258C%25E7%25A7%258B/avatar_header.jpg"
+        }
+    }
+]

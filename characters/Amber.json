@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Amber",
+        "description": "Always energetic and full of life, Amber's the best \u2014 albeit only \u2014 Outrider of the Knights of Favonius.",
+        "element": "Pyro",
+        "weapon": "Bow",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "ATK",
+            "constellation": "Lepus",
+            "vision": "Pyro",
+            "birthday": "8/10",
+            "title": "Gliding Champion",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%25AE%2589%25E6%259F%258F/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E5%25AE%2589%25E6%259F%258F/avatar_header.jpg"
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bennett",
+        "description": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+        "element": "Pyro",
+        "weapon": "Sword",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Energy Recharge",
+            "constellation": "Rota Calamitas",
+            "vision": "Pyro",
+            "birthday": "2/29",
+            "title": "Trial by Fire",
+            "affiliation": "Adventurers' Guild"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%258F%25AD%25E5%25B0%25BC%25E7%2589%25B9/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E7%258F%25AD%25E5%25B0%25BC%25E7%2589%25B9/avatar_header.jpg"
+        }
+    }
+]

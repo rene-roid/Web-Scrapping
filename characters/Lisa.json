@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Lisa",
+        "description": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.",
+        "element": "Electro",
+        "weapon": "Catalyst",
+        "Attributes": {
+            "region": "Mondstadt",
+            "rarity": "4-Star",
+            "bonus_multiplier": "Elemental Mastery",
+            "constellation": "Tempus Fugit",
+            "vision": "Electro",
+            "birthday": "6/9",
+            "title": "Witch of Purple Rose",
+            "affiliation": "Knights of Favonius"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://upload-static.hoyoverse.com/hoyolab-wiki/2022/12/15/77454259/64ff2675c8c6e9a14eafe7b6dc73aab4_772030036064092227.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E4%25B8%25BD%25E8%258E%258E/avatar_header.jpg"
+        }
+    }
+]

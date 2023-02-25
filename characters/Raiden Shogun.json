@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Raiden Shogun",
+        "description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+        "element": "Electro",
+        "weapon": "Polearm",
+        "Attributes": {
+            "region": "Inazuma City",
+            "rarity": "5-Star",
+            "bonus_multiplier": "Energy Recharge",
+            "constellation": "Imperatrix Umbrosa",
+            "vision": "Electro",
+            "birthday": "6/26",
+            "title": "Plane of Euthymia",
+            "affiliation": "Inazuma City"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%259B%25B7%25E7%2594%25B5%25E5%25B0%2586%25E5%2586%259B/avatar.png",
+            "card": "https://wiki.hoyolab.com/_ipx/f_webp/https://bbs.hoyolab.com/hoyowiki/picture/character/%25E9%259B%25B7%25E7%2594%25B5%25E5%25B0%2586%25E5%2586%259B/avatar_header.jpg"
+        }
+    }
+]
