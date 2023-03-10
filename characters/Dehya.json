@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dehya",
+        "description": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
+        "element": "Pyro",
+        "weapon": "Claymore",
+        "Attributes": {
+            "region": "Sumeru",
+            "rarity": "5-Star",
+            "bonus_multiplier": "HP",
+            "constellation": "Mantichora",
+            "vision": "Pyro",
+            "birthday": "4/7",
+            "title": "Flame-Mane",
+            "affiliation": "The Eremites"
+        },
+        "Gallery": {
+            "avatar": "https://wiki.hoyolab.com/_nuxt/img/load_img.7851443.png",
+            "card": "https://wiki.hoyolab.com/_nuxt/img/load_img.7851443.png"
+        }
+    }
+]

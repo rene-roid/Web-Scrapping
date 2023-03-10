@@ -76,12 +76,18 @@ def character(chari_id, i):
     w = WebDriverWait(driver, 7)
     driver.get(char_url + chari_id)
 
-    if i == 0:
-        w.until(EC.presence_of_element_located((By.CSS_SELECTOR, '.guide-edit-close')))
-        driver.find_element(By.CSS_SELECTOR, '.guide-edit-close').click()
+    try:
+        if i == 0:
+            w.until(EC.presence_of_element_located((By.CSS_SELECTOR, '.guide-edit-close')))
+            driver.find_element(By.CSS_SELECTOR, '.guide-edit-close').click()
+    except:
+        pass
 
-    w.until(
-        EC.presence_of_element_located((By.XPATH, '//*[@id="1_baseInfo"]/div/div[2]/div[1]/div[2]/div[1]/div/div/p')))
+    try:
+        w.until(
+            EC.presence_of_element_located((By.XPATH, '//*[@id="1_baseInfo"]/div/div[2]/div[1]/div[2]/div[1]/div/div/p')))
+    except:
+        pass
 
     # Scroll to the bottom of the page
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -90,7 +96,8 @@ def character(chari_id, i):
     name = ""
 
     # General
-    name_path = '//*[@id="1_baseInfo"]/div/div[2]/div[1]/div[2]/div[1]/div/div/p'
+    #name_path = '//*[@id="1_baseInfo"]/div/div[2]/div[1]/div[2]/div[1]/div/div/p'
+    name_path = '//*[@id="__layout"]/main/div/div[2]/div[2]/div[1]/div/div[2]/div[2]/div[1]/span'
     description_path = '//*[@id="__layout"]/main/div/div[2]/div[2]/div[1]/div/div[4]/div/div[1]/div/div/p'
 
     d1 = '//*[@id="__layout"]/main/div/div[2]/div[2]/div[1]/div/div[3]/div/div/div[1]'
@@ -100,17 +107,18 @@ def character(chari_id, i):
     d5 = '//*[@id="__layout"]/main/div/div[2]/div[2]/div[1]/div/div[3]/div/div/div[5]'
 
     # Attributes
-    constellation_path = '//*[@id="1_baseInfo"]/div/div[2]/div[3]/div[2]/div[1]/div/div/p'
-    vision_path = '//*[@id="1_baseInfo"]/div/div[2]/div[5]/div[2]/div[1]/div/div/p'
-    birthday_path = '//*[@id="1_baseInfo"]/div/div[2]/div[2]/div[2]/div[1]/div/div/p'
-    title_path = '//*[@id="1_baseInfo"]/div/div[2]/div[4]/div[2]/div[1]/div/div/p'
-    affiliation_path = '//*[@id="1_baseInfo"]/div/div[2]/div[6]/div[2]/div[1]/div/div/p'
+    #constellation_path = '//*[@id="1_baseInfo"]/div/div[2]/div[3]/div[2]/div[1]/div/div/p'
+    constellation_path = '//*[@id="1_baseInfo"]/div/div[3]/div[3]/div[2]/div[1]/div/div/p'
+    vision_path = '//*[@id="1_baseInfo"]/div/div[3]/div[5]/div[2]/div[1]/div/div/p'
+    birthday_path = '//*[@id="1_baseInfo"]/div/div[3]/div[2]/div[2]/div[1]/div/div/p'
+    title_path = '//*[@id="1_baseInfo"]/div/div[3]/div[4]/div[2]/div[1]/div/div/p'
+    affiliation_path = '//*[@id="1_baseInfo"]/div/div[3]/div[6]/div[2]/div[1]/div/div/p'
 
     # Stats
 
     # Gallery
-    avatar_path = '//*[@id="3_gallery_character"]/div/div[2]/div[1]/div[2]/div/div[1]/div[1]/img'
-    card_path = '//*[@id="3_gallery_character"]/div/div[2]/div[2]/div[2]/img'
+    avatar_path = '//*[@id="3_gallery_character"]/div/div[3]/div[1]/article/div/div[1]/div[1]/img'
+    card_path = '//*[@id="3_gallery_character"]/div/div[3]/div[2]/div[2]/img'
 
     weapon = "unknown"
     region = "unknown"
@@ -203,7 +211,8 @@ def character(chari_id, i):
     except:
         pass
 
-    char_j.append({
+    try:
+        char_j.append({
         "name": driver.find_element(By.XPATH, name_path).text,
         "description": driver.find_element(By.XPATH, description_path).text,
         "element": c_element,
@@ -225,6 +234,9 @@ def character(chari_id, i):
             "card": card
         }
     })
+    except:
+        print("Error: " + str(char_id) + " " + str(char_i))
+        return
 
     name = char_j[0]["name"]
 
@@ -232,12 +244,12 @@ def character(chari_id, i):
         json.dump(char_j, outfile, indent=4)
 
 
-char_i = 0
+char_i = 1
 for char_id in chars_id:
-  character(char_id, char_i)
-  char_i += 1
+    character(char_id, char_i)
+    char_i += 1
 
-character(str(3336), char_i)
+#character(str(3336), char_i)
 
 # Close the browser
 driver.quit()
